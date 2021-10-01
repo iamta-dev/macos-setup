@@ -1,0 +1,45 @@
+# => Application for AppStore
+should-use Magnet
+should-use Manico
+should-use Smart Countdown Timer
+should-use MeetlnOne for Google Meet
+should-use Messenger
+should-use LINE
+Doccuments Translator
+Slack for Desktop
+Trello
+ColorSlurp
+Xcode
+Word
+HueParty for PhilipsHue & LIFX
+
+# => Application for install image file
+should-use Docker https://www.docker.com/products/docker-desktop
+should-use Discord https://discord.com/download
+should-use OBS https://obsproject.com/download
+should-use TablePlus https://tableplus.com/download
+
+# SetUp Application
+### Firefox Extention 
+- Take Webpage Screenshots Entirely - FireShot
+- Vue.js devtools
+- React Developer Tools
+- Enhancer for YouTube
+- Dark Mode
+- Translate Web Pages
+
+### Chrome Extention 
+- Google Translate
+
+ByteHR https://app.byte-hr.com/login
+AppStore accounts
+Icloud
+Mail
+Calendar
+Stickies
+MeetlnOne for Google Meet
+Zoom
+Messenger
+LINE
+Discord
+OBS fix bug audio, Audio MIDI Setup : https://drive.google.com/drive/folders/1diIBUFQ3yXqBcuMAZJRbdYjv0UaLG4uS?usp=sharing
