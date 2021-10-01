@@ -14,5 +14,3 @@ npm i -g ts-watch
 npm ls -g
 # ==> update outdated package
 # npm i -g npm-check-updates && ncu -u && npm i
-# => end
-echo "end ..........\n\n\n"

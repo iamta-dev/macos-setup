@@ -20,5 +20,3 @@ brew install --cask postman
 brew install --cask zoom
 # ==> list package
 brew list
-# ==> end
-echo "end ..........\n\n\n"
