@@ -9,6 +9,7 @@
     "terminal.integrated.fontSize": 22,
     "workbench.sideBar.location": "right",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.editor.enablePreview": false,
     "editor.rulers": [
         {
           "column": 100,
