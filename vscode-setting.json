@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Monokai",
+    "editor.fontSize": 22,
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "scm.inputFontSize": 22,
+    "debug.console.fontSize": 22,
+    "markdown.preview.fontSize": 22,
+    "terminal.integrated.fontSize": 22,
+    "workbench.sideBar.location": "right",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [
+        {
+          "column": 100,
+          "color": "#F4D03F"
+        },
+        {
+            "column": 100,
+            "color": "#E74C3C"
+          },
+      ],
+      "window.zoomLevel": -2,
+      
+}
