@@ -1,3 +1,6 @@
 ### FiraCode
+view: https://www.programmingfonts.org/#daddytimemono
+download: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/DaddyTimeMono.zip
+
 view: https://www.programmingfonts.org/#firacode
 download: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FiraCode.zip
