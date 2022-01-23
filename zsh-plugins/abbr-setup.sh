@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "abbr map key .........."
 # ==> abbr map key
-abbr add --force debug="yarn debug"
-abbr add --force ydev="yarn dev"
+# abbr add --force debug="yarn debug"
+# abbr add --force ydev="yarn dev"
 abbr add --force gga="git add ."
 abbr add --force ggb="git branch"
 abbr add --force ggbD="git branch | grep -v master | xargs git branch -D"
@@ -20,19 +20,23 @@ abbr add --force ll="exa -l --icons"
 abbr add --force lla="exa -l -a --icons"
 abbr add --force ls="exa --icons"
 abbr add --force lsa="exa -a --icons"
-abbr add --force rundev="./run-dev.sh"
-abbr add --force rundevd="./run-dev.debug.sh"
-abbr add --force runtest="./run-test.sh"
-abbr add --force runtestd="./run-test.debug.sh"
+# abbr add --force rundev="./run-dev.sh"
+# abbr add --force rundevd="./run-dev.debug.sh"
+# abbr add --force runtest="./run-test.sh"
+# abbr add --force runtestd="./run-test.debug.sh"
 abbr add --force ssh="cd ~/.ssh && ssh-add id_rsa_blockfint"
-abbr add --force ystart="yarn start"
-abbr add --force ytest="yarn test"
+# abbr add --force ystart="yarn start"
+# abbr add --force ytest="yarn test"
 abbr add --force vi="nvim"
 abbr add --force ws="cd ~/ws"
-abbr add --force ww="cd ~/ws/thinker-loan-data-model"
+abbr add --force ws="cd ~/bf"
+# abbr add --force ww="cd ~/ws/thinker-loan-data-model"
+
+# wsl2
+abbr add --force open="explorer.exe ."
 # ==> abbr list map key
 abbr list 
 # ==> abbr delete package
 # abbr erase <key_name>
 # => end
-# echo "end ..........\n\n\n"
+echo "end ..........\n\n\n"

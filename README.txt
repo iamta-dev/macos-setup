@@ -29,3 +29,8 @@ https://drive.google.com/file/d/11XQ36CY0VHkvyaRcQLo7vWiyOCa6RXNp/view?usp=shari
 
 ### Sejda PDF Desktop
 https://www.sejda.com/desktop
+
+### Font
+https://www.nerdfonts.com/font-downloads
+http://www.sut.ac.th/2012/SUT_IDENTITY/SUT_Font/TTF Files.zip
+Thai Sarabun New

@@ -4,6 +4,7 @@ echo "brew install package .........."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 # ==> brew update
 brew update
+brew upgrade
 # ==> brew install formulae package
 brew install git
 brew install openssl
