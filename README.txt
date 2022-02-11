@@ -34,3 +34,5 @@ https://www.sejda.com/desktop
 https://www.nerdfonts.com/font-downloads
 http://www.sut.ac.th/2012/SUT_IDENTITY/SUT_Font/TTF Files.zip
 Thai Sarabun New
+### clipy
+https://clipy-app.com/
